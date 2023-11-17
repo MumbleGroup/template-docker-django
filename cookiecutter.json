@@ -1,0 +1,5 @@
+{
+    "__PROJECT_SETUP__": "",
+    "project_title": "Project",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
