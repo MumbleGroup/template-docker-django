@@ -1,1 +1,3 @@
-web/settigs/local.py
+config/settigs/local.py
+config/settigs/settings.py
+
